@@ -1,42 +1,34 @@
 <div align="center">
-</div>
-
-![Preview](./images/bg.webp)
-
-### Hi! I'm Shuvi
-
-**Weeb Developer and Gamer** 
-
-## **☕ About me**
-<a href="https://github.com/Shuvi-0"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm Hikikomori + NEET and my hobbies are customizing stuff, playing games, reading manga, and sometimes tinkering with random stuff like coding.
-<br><br><br><br>
-
-
-## **💻 Experience**
-<a href="https://github.com/Shuvi-0"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying Computer science. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
-
-
-## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shuvi-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvi-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/parade.webp" width="300px" alt="Parade"/>
 </p>
 
-## **🧋Cutie Counter**
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
-</p> -->
-<img align="right" width=400 src="https://moe-counter.glitch.me/get/@Shuvi-0?theme=rule34">
-<a href="https://github.com/Shuvi-0"><img align="left" width="100" src="./images/mahiro.png"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Yahallo+~+Welcome+to+my+github+💜)](https://git.io/typing-svg)
+## *About Me*
 
-```yaml
-People who visit my profile :3.
+**Name:** Shuvi 👋  
+**Loves:** 📺 Manga, 🎮 Games, 🟣 Customizing stuff
+**Hobbies:** 💻 Tech Stuff, 🌐 Web Development
 
-Hehe~ another cutie has been caught.
-```
-<!-- <br><br><br><br> -->
-## **📫 Contact**
-<a href="https://github.com/Shuvi-0"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 
-**You can also email me here:** yuko.spider@gmail.com
 
+## ***Technologies***
+
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
+
+
+
+
+
+<p align="center">
+  <a href="https://links.purpleyard.xyz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/username.png" width="20%" alt="Username"/>
+  </a>
+  <br>
+  <em>Click to see my links</em>
+</p>
+
+
+</div>
