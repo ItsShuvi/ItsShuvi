@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=50&lines=Yahallo+~+Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=50&lines=Welcome+to+my+github)](https://git.io/typing-svg)
 <p align="center">
   <img src="images/pg.jpg" height="500px" alt="background"/>
 </p>
