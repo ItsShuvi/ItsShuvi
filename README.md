@@ -6,39 +6,30 @@
 
 ![Preview](./images/bg.webp)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-
-
-### Hi!👋 I'm Mizu🍊
+### Hi! I'm Shuvi
 
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+<a href="https://github.com/Shuvi-0"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
+I'm Hikikomori + NEET and my hobbies are customizing stuff, playing games, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+<a href="https://github.com/Shuvi-0"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
+I'm currently studying Computer science. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shuvi-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvi-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
-
-<!-- ## **🎧 Spotify**
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
 
 ## **🧋Cutie Counter**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro.png"></a>
+<img align="right" width=400 src="https://moe-counter.glitch.me/get/@Shuvi-0?theme=rule34">
+<a href="https://github.com/Shuvi-0"><img align="left" width="100" src="./images/mahiro.png"></a>
 
 ```yaml
 People who visit my profile :3.
