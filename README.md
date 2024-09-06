@@ -13,7 +13,8 @@
 ## **☕ About me**
 <a href="https://github.com/Shuvi-0"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 I'm Hikikomori + NEET and my hobbies are customizing stuff, playing games, reading manga, and sometimes tinkering with random stuff like coding.
-<br><br>
+<br><br><br><br>
+
 
 ## **💻 Experience**
 <a href="https://github.com/Shuvi-0"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
