@@ -8,7 +8,7 @@
 ## *About Me*
 
 **Name:** Shuvi 👋  
-**Loves:** 📺 Manga, 🎮 Games, 🟣 Customizing stuff  
+**Likes:** 📺 Manga, 🎮 Games, 🟣 Customizing stuff  
 **Hobbies:** 💻 Tech Stuff, 🌐 Web Development
 
 
