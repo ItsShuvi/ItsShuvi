@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
+![Github Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
+![Hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
 
 </div>
